@@ -897,3 +897,15 @@ This repository represents a continuous learning process. The goal is not to sol
 ---
 
 *Built with Java, LeetCode, consistency, and a commitment to learning.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/erumnaz-code/leetcode-dsa-in-java/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/erumnaz-code/leetcode-dsa-in-java/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
