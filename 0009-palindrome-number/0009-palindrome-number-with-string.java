@@ -5,17 +5,26 @@ class Solution {
             return false;
         }
 
-        int orig = x;
-        int rev = 0;
+        else if(x == 0){
+            return true;
+        }
+
+        String orig = String.valueOf(x);
+        String rev = "";
 
         while (x > 0) {
             int digit = x % 10;
-            rev = rev * 10 + digit;
+            rev = rev + digit;
             x = x / 10;
         }
 
-        return orig == rev;
+        if (orig.equals(rev)) {
+            return true;
+        } else {
+            return false;
+        }
     }
 }
+
 
 
