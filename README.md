@@ -912,6 +912,7 @@ This repository represents a continuous learning process. The goal is not to sol
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/erumnaz-code/leetcode-dsa-in-java/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/erumnaz-code/leetcode-dsa-in-java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -921,4 +922,5 @@ This repository represents a continuous learning process. The goal is not to sol
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/erumnaz-code/leetcode-dsa-in-java/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/erumnaz-code/leetcode-dsa-in-java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
